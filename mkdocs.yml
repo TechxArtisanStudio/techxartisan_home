@@ -75,9 +75,9 @@ extra:
     actions:
       - accept
       - reject
-  # analytics:
-  #   provider: google
-  #   property: G-EKZEH6QYWT
+  analytics:
+    provider: google
+    property: G-E18K72QFTS
 
 markdown_extensions:
   # Enables tables
