@@ -1,12 +1,21 @@
 !!! warning "Website Under Construction"
     Please note that our website is currently undergoing re-construction. More information will be coming soon!
 
-# Welcome to TechxArtisan
+# **Welcome to TechxArtisan**
+
+![alt text](assets/logo.svg){:style="max-height:200px"}
 
 我们与全球艺术家共同创作，为商业与公共空间打造独一无二的科技艺术体验。
+
 We create one-of-a-kind experiences of tech art with global artists for various commercial and public spaces.
 
-## About
+## **Service**
+
+科技艺术展览策划、实验艺术创作、公共与商业空间的交互艺术装置、定制智能交互硬件与系统开发、LED装置灯饰、3D建模和制作、PCB板设计与制作、AI图像分析算法、物联网技术应用等等
+
+Tech. art exhibition planning, experimental art creation, interactive art installations in public and commercial spaces, customized interactive hardware and system development, LED lighting installation, 3D modeling and production, PCB board design and production, AI image analysis algorithms, IoT technology application etc.
+
+## **About**
 
 TECHxARTISAN 是一个跨界科技创意工作室，亦是一群热爱前沿科技的设计师、策划师、制作师和技术达人。
 
@@ -29,9 +38,3 @@ We do not stop at just imagining, do more than thinking about design, but also c
 We believe that thinking and practising are equally important in actualising high-quality creative works.
 
 We also believe in “technology for good”. We enjoy in creation with artists through our own understanding and application of technologies, to bring unique and meaningful experiences to people.
-
-## Service
-
-科技艺术展览策划、实验艺术创作、公共与商业空间的交互艺术装置、定制智能交互硬件与系统开发、LED装置灯饰、3D建模和制作、PCB板设计与制作、AI图像分析算法、物联网技术应用等等
-
-Tech. art exhibition planning, experimental art creation, interactive art installations in public and commercial spaces, customized interactive hardware and system development, LED lighting installation, 3D modeling and production, PCB board design and production, AI image analysis algorithms, IoT technology application etc.
