@@ -1,0 +1,86 @@
+.mdx-container {
+    background: url("/images/home_bg.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.mdx-hero {
+    color: var(--md-primary-bg-color);
+    margin: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.mdx-hero h1 {
+    color: currentcolor;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.mdx-hero__content {
+    padding-bottom: 4rem;
+    text-align: center;
+    max-width: 800px;
+    width: 100%;
+}
+
+.mdx-hero__content p {
+    font-size: 1.2rem;
+    padding: 0 3rem; /* Default for common screens */
+}
+
+.mdx-hero .image-container img {
+    width: 120px;
+}
+
+.mdx-hero .md-button {
+    color: #ffffff;
+    border-color: var(--md-accent-bg-color);
+    margin-right: .5rem;
+    margin-top: .5rem;
+}
+
+.mdx-hero .md-button:focus, .mdx-hero .md-button:hover {
+    background-color: var(--md-accent-fg-color);
+    border-color: var(--md-accent-fg-color);
+    color: var(--md-accent-bg-color);
+}
+
+.mdx-hero .md-button--primary {
+    background-color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-bg-color);
+    color: var(--md-primary-fg-color);
+}
+
+.mdx-hero .md-button:focus, .mdx-hero .md-button:hover {
+    background-color: var(--md-primary-fg-color);
+    border-color: var(--md-primary-fg-color);
+    color: var(--md-accent-bg-color);
+}
+
+/* Media Queries for Responsive Design */
+@media screen and (max-width: 599px) {
+    /* Smaller screens */
+    .mdx-hero__content p {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 767px) {
+    /* Tablet screens */
+    .mdx-hero__content p {
+        padding: 0 2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    /* Larger screens */
+    .mdx-hero__content p {
+        padding: 0 4rem;
+    }
+}

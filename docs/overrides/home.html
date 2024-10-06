@@ -1,0 +1,34 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+
+  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
+
+  <section class="mdx-container">
+    <div class="md-grid md-typeset">
+      <div class="mdx-hero">
+        <div class="mdx-hero__content">
+          <div class="image-container">
+            <img src="/assets/logo.svg" alt="TechxArtisan" width="190" draggable="false">
+          </div>
+          <h1>TechxArtisan</h1>
+          <p>Unleashing tech magic to craft solutions for enterprises and creatives, from custom installations to groundbreaking hardware innovations.</p>
+          <a href="{{ '/work/' | url }}" title="Projects" class="md-button">
+            Explore Our Wizardry
+          </a>
+          <a href="{{ '/service/' | url }}" title="Services" class="md-button md-button--primary">
+            Magic Services
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+{% endblock %}
+
+{% block content %}{% endblock %}
+
+{% block footer %}
+  {{ super() }}
+{% endblock %}

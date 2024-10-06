@@ -19,7 +19,7 @@ copyright: >-
 # Configuration
 theme:
   name: material
-  # custom_dir: docs/overrides
+  custom_dir: docs/overrides
   language: en
   font:
     text: Roboto
@@ -104,7 +104,7 @@ markdown_extensions:
                 - overrides/.icons
   - toc:
       permalink: ¶
-      toc_depth: 3
+      toc_depth: 2
 
 plugins:
   - glightbox
@@ -129,8 +129,12 @@ plugins:
 
 nav:
   - Home: index.md
+  - What We Do:
+      - work.md
+      - Our Products: product.md
+      - Our Projects: 
+          - project.md
+          - projects/coloured-towers.md
+  - Services: service.md
   - Blog:
-    - blog/index.md
-    # - Openterface:
-    #   - Weekly Update 3: openterface/update-3.md
-  # - About: about.md
+      - blog/index.md

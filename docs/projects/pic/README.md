@@ -1,0 +1,1 @@
+Please note that the cover photos in this folder need to be cropped to a 55:40 aspect ratio. Additionally, it is recommended to compress the images before using them in the grid card within the list of projects.
