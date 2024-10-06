@@ -2,6 +2,15 @@
 
 <div class="grid cards" markdown>
 
+-   **DreamMech Forest**
+
+    ![DREAMMECH-FOREST-IMAGE](projects/pic/dreammech-forest-cover.jpg){:class="responsive-image"}
+
+    DreamMech Forest is an outdoor art installation by TechxArtisan in Hefei. It features metal trees with mechanical flowers that open and close using N20 motors. RGB LED strips create vibrant lighting effects, and each flower connects to the main controller via WiFi for synchronized control. With 20 to 30 mechanical flowers, DreamMech Forest symbolizes the fusion of technology and art.
+
+    [:octicons-arrow-right-24: Learn More](projects/dreammech-forest.md)
+
+
 -   **The First Law of Forest**
 
     ![THE-FIRST-LAW-OF-FOREST-IMAGE](projects/pic/the-first-law-of-forest-cover.jpg){:class="responsive-image"}
@@ -14,7 +23,7 @@
 
     ![CONGRATS-X-IMAGE](projects/pic/congrats-x-cover.jpg){:class="responsive-image"}
 
-    Congrats X, the Y is in another Z is an innovative autonomous car art project, created in collaboration between TechxArtisan and Professor Chen Baoyang from the CAFA. This project features an AI-driven car that navigates through a randomly generated maze, starting from an initial point and finding its way to the exit. Upon reaching the exit, the car designates it as the new starting point, and a new maze is generated, perpetuating this cycle.
+    Congrats X, the Y is in another Z is an innovative autonomous car art project, created in collaboration between TechxArtisan and artist Chen Baoyang from the CAFA. This project features an AI-driven car that navigates through a randomly generated maze, starting from an initial point and finding its way to the exit. Upon reaching the exit, the car designates it as the new starting point, and a new maze is generated, perpetuating this cycle.
 
     <!-- [:octicons-arrow-right-24: Learn More](projects/congrats-x.md) -->
 
