@@ -20,7 +20,7 @@ Driven by curiosity, we balance conceptual thinking with hands-on craftsmanship,
 
     Bespoke technical solutions, ranging from cool tech art installation to integrated hardware/software systems, created for clients across different sectors.
 
-    [:octicons-arrow-right-24: Learn More](/projects/)
+    [:octicons-arrow-right-24: Learn More](/project/)
 
 </div>
 
