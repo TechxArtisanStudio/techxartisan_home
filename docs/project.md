@@ -8,7 +8,7 @@
 
     DreamMech Forest is an outdoor art installation by TechxArtisan in Hefei. It features metal trees with mechanical flowers that open and close using N20 motors. RGB LED strips create vibrant lighting effects, and each flower connects to the main controller via WiFi for synchronized control. With 20 to 30 mechanical flowers, DreamMech Forest symbolizes the fusion of technology and art.
 
-    [:octicons-arrow-right-24: Learn More](projects/dreammech-forest.md)
+    <!-- [:octicons-arrow-right-24: Learn More](projects/dreammech-forest.md) -->
 
 
 -   **The First Law of Forest**
