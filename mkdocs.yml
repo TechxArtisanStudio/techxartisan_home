@@ -14,6 +14,7 @@ copyright: >-
 #   - assets/stylesheets/extra.css
 extra_css:
   - assets/stylesheets/custom.css
+  - assets/stylesheets/custom_style.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
 
 # extra_javascript:
@@ -44,8 +45,9 @@ theme:
    - content.tabs.link
   
   palette:
-    primary: grey
-    # accent: custom
+    scheme: default
+    primary: black
+    accent: custom
   icon:
     admonition:
       note: fontawesome/solid/note-sticky

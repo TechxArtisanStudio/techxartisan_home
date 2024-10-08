@@ -1,4 +1,4 @@
-# **Tech for Good**
+# Tech for Good
 
 At TechxArtisan, we merge creativity with cutting-edge technology to push the boundaries of what’s possible. As a team of designers, engineers, and innovators, we don't just imagine the future — we build it. Whether developing custom tech installations or creating products that simplify complex tasks, we believe in the power of technology to make a meaningful impact.
 
