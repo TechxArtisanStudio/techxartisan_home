@@ -21,7 +21,7 @@ The Openterface Mini-KVM allows you to control a headless computer directly from
 For a detailed use case of this device, please visit [Streamlined Server Management](/use-cases/#streamlined-server-management).
 
 ### Demo Video
-Watch the demo video by Tech influencer **Cameron Gray** on how to use this device: [This USB KVM Console is Awesome!](https://youtu.be/xAEQpWyfY-c?si=auB5NtqHVw2C7iIK&t=1693)
+Watch the demo video by Tech influencer **Cameron Gray** on how to use this device: [This USB KVM Console is Awesome!](https://youtu.be/xAEQpWyfY-c?si=AkNVYHHYoRLn2-iB)
 
 [Place Order](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products){ .md-button }
 
