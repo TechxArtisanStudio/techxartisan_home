@@ -1,5 +1,16 @@
 # About
 
+## Follow Us on Social Media
+
+Stay updated and engaged with us through our social media channels:
+
+- :fontawesome-brands-x-twitter: [Follow us on Twitter](https://twitter.com/TechxArtisan)
+- :fontawesome-brands-discord: [Join our Discord community](/discord)
+- :fontawesome-brands-youtube: [Subscribe to our YouTube channel](https://www.youtube.com/@TechxArtisanStudio)
+- :fontawesome-brands-linkedin-in: [Follow us on LinkedIn](https://www.linkedin.com/company/techxartisan/)
+- :fontawesome-brands-facebook-f: [Like us on Facebook](https://www.facebook.com/TechxArtisan)
+
+
 ## Contact Us
 
 To ensure you're communicating with us securely and directly, please note our official contact email addresses: [info@techxartisan.com](mailto:info@techxartisan.com). For any enquiries, support, or feedback, feel free to reach out to us at:
