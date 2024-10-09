@@ -29,7 +29,6 @@ Driven by curiosity, we balance conceptual thinking with hands-on craftsmanship,
     A collection of our prototype, fun hack, and interdisciplinary maker experiments, showcasing the innovative ideas we’re exploring and testing.
     
     :octicons-arrow-right-24: Comming Soon
-    <!-- [:octicons-arrow-right-24: See Experiments](/experiments/) -->
 
 </div>
 
