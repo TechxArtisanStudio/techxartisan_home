@@ -17,7 +17,12 @@
 
 /* Change the color of the active TOC link */
 .md-nav__link--active {
-    color: #2b2b2b !important; /* Change this to the desired active link color */
+    color: #2b2b2b !important; /* Active link color for light mode */
+}
+
+/* Change the color of the active TOC link in dark mode */
+[data-md-color-scheme="slate"] .md-nav__link--active {
+    color: #FAA22B !important; /* Active link color for dark mode */
 }
 
 /* Ensure that hover styles don't interfere */
@@ -25,9 +30,9 @@
     color: #FF5733 !important; /* Keep the active color consistent on hover */
 }
 
-h1, h2, h3, h4 {
+/* h1, h2, h3, h4 {
     color: #2b2b2b;
-}
+} */
 
 /* body {
     background-color: #ffffff;

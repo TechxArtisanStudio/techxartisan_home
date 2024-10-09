@@ -45,10 +45,32 @@ theme:
    - content.code.copy
    - content.tabs.link
   
+  # palette:
+  #   scheme: default
+  #   primary: black
+  #   accent: custom
+
   palette:
-    scheme: default
-    primary: black
-    accent: custom
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+
+
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
