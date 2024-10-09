@@ -50,8 +50,8 @@
 }
 
 #mc_embed_signup .button:hover {
-    background-color: var(--md-accent-fg-color--transparent);
-    color: var(--md-accent-fg-color);
+    background-color: #FAA22B;
+    color: var(--md-accent-bg-color);
 }
 
 /* Media Queries for Responsive Design */
