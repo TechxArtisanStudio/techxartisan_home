@@ -23,7 +23,7 @@ For a detailed use case of this device, please visit [Streamlined Server Managem
 ### Demo Video
 Watch the demo video by Tech influencer **Cameron Gray** on how to use this device: [This USB KVM Console is Awesome!](https://youtu.be/xAEQpWyfY-c?si=auB5NtqHVw2C7iIK&t=1693)
 
-<button class="md-button" onclick="window.location.href='https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products'">Place Order</button>
+[Place Order](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products){ .md-button }
 
 
 ## VGA to HDMI Converter Cable
@@ -39,7 +39,7 @@ This product converts VGA video and integrates audio into HDMI, enabling easy co
 - **Audio Out**: via HDMI
 - **Power Supply**: Powered via USB
 
-<button class="md-button" onclick="window.location.href='https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products'">Place Order</button>
+[Place Order](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products){ .md-button }
 
 ---
 

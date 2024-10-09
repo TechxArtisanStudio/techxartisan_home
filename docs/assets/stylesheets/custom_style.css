@@ -1,7 +1,9 @@
 /* same as .md-content a:hover */
-/* :root {
-    --md-accent-fg-color: #FAA22B;
-} */
+:root {
+    --md-accent-fg-color: #2b2b2b;
+    /* --md-primary-fg-color: #2b2b2b;
+    ---md-accent-bg-color: #2b2b2b; */
+}
 
 /* Clickable links and icon in main body */
 .md-content a {
