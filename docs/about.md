@@ -14,8 +14,8 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
   <div class="team-member">
     <img src="/images/team/billywang.jpg" alt="Billy WANG" class="team-avatar">
     <div class="team-info">
-      <strong>Billy WANG</strong><br>
-      Co-Founder & Creative Director<br>
+      <strong><a href="https://x.com/BillyWangRB">Billy WANG</a></strong><br>
+      <em>Co-Founder & Creative Director</em><br>
       <a href="https://github.com/youyoubilly" class="social-link">
         <i class="fab fa-github"></i>
       </a>
@@ -25,8 +25,8 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
   <div class="team-member">
     <img src="/images/team/kevinpeng.jpg" alt="Kevin PENG" class="team-avatar">
     <div class="team-info">
-      <strong>Kevin PENG</strong><br>
-      Co-Founder & Technology Director<br>
+      <strong><a href="https://www.linkedin.com/in/kevinzjpeng/">Kevin PENG</a></strong><br>
+      <em>Co-Founder & Tech Director</em><br>
       <a href="https://github.com/kevinzjpeng" class="social-link">
         <i class="fab fa-github"></i>
       </a>
@@ -37,7 +37,7 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
     <img src="/images/team/shawnling.jpg" alt="Shawn LING" class="team-avatar">
     <div class="team-info">
       <strong>Shawn LING</strong><br>
-      Co-Founder & Technical Executive<br>
+      <em>Co-Founder & Tech Executive</em><br>
     </div>
       <a href="https://github.com/ling3ye" class="social-link">
         <i class="fab fa-github"></i>
@@ -46,7 +46,7 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
 
 </div>
 
-### Technologist & Developers
+### Creative Technologist & Developers
 
 <div class="team-section">
   <div class="team-member">
