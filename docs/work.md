@@ -6,21 +6,30 @@ Driven by curiosity, we balance conceptual thinking with hands-on craftsmanship,
 
 <div class="grid cards" markdown>
 
--   :material-cogs:{ .lg .middle } __Innovative Products__
+-   :material-cogs:{ .lg .middle } __Commercialised Products__
 
     ---
 
-    Groundbreaking hardware like our Openterface Mini-KVM that empowers users to streamline their technology setups and more.
+    Discover market-ready hardware like our Openterface Mini-KVM, designed to empower users and streamline tech setups.
 
-    [:octicons-arrow-right-24: Discover More](/product/)
+    [:octicons-arrow-right-24: Explore Products](/product/)
 
 -   :material-lightbulb-on-outline:{ .lg .middle } __Creative Projects__
 
     ---
 
-    Bespoke technical solutions, ranging from cool tech art installation to integrated hardware/software systems, created for clients across different sectors.
+    Bespoke technical solutions, including tech art installations and integrated hardware/software systems created for clients across a range of sectors.
 
     [:octicons-arrow-right-24: Learn More](/project/)
+
+-   :material-flask-outline:{ .lg .middle } __Experimental Projects__
+
+    ---
+
+    A collection of our prototype, fun hack, and interdisciplinary maker experiments, showcasing the innovative ideas we’re exploring and testing.
+    
+    :octicons-arrow-right-24: Comming Soon
+    <!-- [:octicons-arrow-right-24: See Experiments](/experiments/) -->
 
 </div>
 

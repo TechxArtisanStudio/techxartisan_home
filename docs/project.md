@@ -1,13 +1,13 @@
 # The List of Projects
 
-Hey there! Check out some of the awesome tech projects we’ve been a part of! 
+Hey there! 🧡 Check out some of the awesome tech projects we’ve been a part of! 
 
 <div class="responsive-iframe-container">
     <iframe src="https://docs.google.com/presentation/d/1TmnuJiCl8nvk09XCS40VTDcfUvwHM0XUERaW94oR5Jw/embed?loop=true"
             frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-Just click ☝ the Google Slide above (if your browser supports it) to browse through and enjoy the audio intro 🔊. Thanks for stopping by! 🧡
+Just click ☝ the Google Slide above (if your browser supports it) to browse through and enjoy the audio intro 🔊.
 
 <div class="grid cards" markdown>
 
