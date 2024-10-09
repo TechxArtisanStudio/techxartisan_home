@@ -16,6 +16,7 @@ extra_css:
   - assets/stylesheets/custom.css
   - assets/stylesheets/custom_style.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+  - assets/stylesheets/signup_form.css
 
 # extra_javascript:
 #   - assets/javascripts/extra.js

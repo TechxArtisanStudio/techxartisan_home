@@ -30,7 +30,8 @@
 
 .mdx-hero__content p {
     font-size: 1.2rem;
-    padding: 0 3rem; /* Default for common screens */
+    padding: 0 3rem;
+    line-height: 1.6;
 }
 
 .mdx-hero .image-container img {
@@ -110,9 +111,19 @@
 /* Media Queries for Responsive Design */
 @media screen and (max-width: 599px) {
     /* Smaller screens */
+    .mdx-hero .image-container img {
+        width: 60px;
+    }
+
+    .mdx-hero h1 {
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+
     .mdx-hero__content p {
-        font-size: 1rem;
-        padding: 0 1rem;
+        font-size: 0.9rem;
+        padding: 0 0.5rem;
+        line-height: 1.3;
     }
 
     .responsive-iframe-container {
@@ -122,8 +133,17 @@
 
 @media screen and (min-width: 600px) and (max-width: 767px) {
     /* Tablet screens */
+    .mdx-hero .image-container img {
+        width: 80px;
+    }
+
+    .mdx-hero h1 {
+        font-size: 1.8rem;
+    }
+
     .mdx-hero__content p {
         padding: 0 2rem;
+        line-height: 1.5;
     }
 
     .responsive-iframe-container {
