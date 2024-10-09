@@ -19,12 +19,6 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
       <a href="https://github.com/youyoubilly" class="social-link">
         <i class="fab fa-github"></i>
       </a>
-      <a href="https://x.com/BillyWangRB" class="social-link">
-        <i class="fab fa-twitter"></i>
-      </a>
-      <a href="https://mastodon.social/@youyoubilly" class="social-link">
-        <i class="fab fa-mastodon"></i>
-      </a>
     </div>
   </div>
 
@@ -35,9 +29,6 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
       Co-Founder & Technology Director<br>
       <a href="https://github.com/kevinzjpeng" class="social-link">
         <i class="fab fa-github"></i>
-      </a>
-      <a href="https://x.com/tech_kevinp" class="social-link">
-        <i class="fab fa-twitter"></i>
       </a>
     </div>
   </div>
