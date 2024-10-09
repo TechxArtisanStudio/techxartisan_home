@@ -7,7 +7,7 @@ Hey there! 🧡 Check out some of the awesome tech projects we’ve been a part 
             frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-Just click ☝ the Google Slide above (if your browser supports it) to browse through and enjoy the audio intro 🔊.
+Just click ☝ the Google Slide above (if your browser supports it) to browse through and enjoy the audio intro 🔊 powered by *Google NotebookLM*.
 
 <div class="grid cards" markdown>
 

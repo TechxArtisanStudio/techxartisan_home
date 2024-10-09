@@ -8,7 +8,8 @@ site_description: This is the website for TechxArtisan
 copyright: >-
   Copyright &copy; All rights reserved. 2023 <a href="">TechxArtisan Limited</a><br>
   <a href="">Home</a> |
-  <a href="#__consent">Cookie Settings</a>
+  <a href="#__consent">Cookie Settings</a> | 
+  <a href="mailto:info@techxartisan.com">Email Us</a>
 
 # extra_css:
 #   - assets/stylesheets/extra.css
@@ -92,6 +93,8 @@ extra:
       link: https://twitter.com/TechxArtisan
     - icon: fontawesome/brands/linkedin-in
       link: https://www.linkedin.com/company/techxartisan/
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@youyoubilly
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@techxartisanstudio
 
