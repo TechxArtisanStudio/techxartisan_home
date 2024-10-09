@@ -16,8 +16,14 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
     <div class="team-info">
       <strong>Billy WANG</strong><br>
       Co-Founder & Creative Director<br>
-      <a href="https://twitter.com/billywang" class="social-link">
+      <a href="https://github.com/youyoubilly" class="social-link">
+        <i class="fab fa-github"></i>
+      </a>
+      <a href="https://x.com/BillyWangRB" class="social-link">
         <i class="fab fa-twitter"></i>
+      </a>
+      <a href="https://mastodon.social/@youyoubilly" class="social-link">
+        <i class="fab fa-mastodon"></i>
       </a>
     </div>
   </div>
@@ -27,8 +33,11 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
     <div class="team-info">
       <strong>Kevin PENG</strong><br>
       Co-Founder & Technology Director<br>
-      <a href="https://github.com/kevinpeng" class="social-link">
+      <a href="https://github.com/kevinzjpeng" class="social-link">
         <i class="fab fa-github"></i>
+      </a>
+      <a href="https://x.com/tech_kevinp" class="social-link">
+        <i class="fab fa-twitter"></i>
       </a>
     </div>
   </div>
@@ -38,10 +47,10 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
     <div class="team-info">
       <strong>Shawn LING</strong><br>
       Co-Founder & Technical Executive<br>
-      <a href="https://github.com/shawnling" class="social-link">
+    </div>
+      <a href="https://github.com/ling3ye" class="social-link">
         <i class="fab fa-github"></i>
       </a>
-    </div>
   </div>
 
 </div>
@@ -52,30 +61,21 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
   <div class="team-member">
     <img src="/images/team/bendeng.jpg" alt="Ben" class="team-avatar">
     <div class="team-info">
-      <strong>Ben Deng</strong><br>
-      <a href="https://twitter.com/ben_techxartisan" class="social-link">
-        <i class="fab fa-twitter"></i>
-      </a>
+      <strong>Ben DENG</strong><br>
     </div>
   </div>
 
   <div class="team-member">
     <img src="/images/team/warrenye.jpg" alt="Warren Ye" class="team-avatar">
     <div class="team-info">
-      <strong>Warren Ye</strong><br>
-      <a href="https://github.com/warrenye" class="social-link">
-        <i class="fab fa-github"></i>
-      </a>
+      <strong>Warren YE</strong><br>
     </div>
   </div>
 
   <div class="team-member">
     <img src="/images/team/ianchow.jpg" alt="Ian Chow" class="team-avatar">
     <div class="team-info">
-      <strong>Ian Chow</strong><br>
-      <a href="https://github.com/ianchow" class="social-link">
-        <i class="fab fa-github"></i>
-      </a>
+      <strong>Ian CHOW</strong><br>
     </div>
   </div>
 </div>
