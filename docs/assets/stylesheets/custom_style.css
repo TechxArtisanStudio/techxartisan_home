@@ -37,3 +37,20 @@ h1, h2, h3, h4 {
 /* a {
     color: #FF5733; 
 } */
+
+/* Custom styles for consent buttons */
+.md-consent__controls .md-button--primary {
+    background-color: #2b2b2b !important;
+    border-color: #2b2b2b !important;
+}
+
+.md-consent__controls .md-button:not(.md-button--primary) {
+    border-color: #2b2b2b !important;
+    color: #2b2b2b !important;
+}
+
+.md-consent__controls .md-button:hover {
+    background-color: #FAA22B !important;
+    border-color: #FAA22B !important;
+    color: #ffffff !important;
+}
