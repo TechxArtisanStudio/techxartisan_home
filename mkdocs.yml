@@ -8,7 +8,7 @@ site_description: This is the website for TechxArtisan
 copyright: >-
   Copyright &copy; All rights reserved. 2023 <a href="">TechxArtisan Limited</a><br>
   <a href="">Home</a> |
-  <a href="#__consent">Cookie Settings</a> | 
+  <a href="#__consent">Cookie Settings</a>
 
 # extra_css:
 #   - assets/stylesheets/extra.css
