@@ -2,7 +2,9 @@
 
 From handy cables and adapters to cool KVM solutions, we've got a variety of products to boost your tech game.
 
-## Openterface Mini-KVM
+## Highlights
+
+### Openterface Mini-KVM
 
 ![MINIKVM-IMAGE](images/product/OP-01-MINIKVM.jpg){:style="height:360px"}
 
@@ -17,14 +19,17 @@ The Openterface Mini-KVM allows you to control a headless computer directly from
 - **Audio Capture**: HDMI embedded audio passthrough
 - **Power Supply**: USB-C powered. No external power supply required.
 
-### Use Case
+[:octicons-heart-fill-24:{.heart} Pre-Order NOW!](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products){ .md-button }
+
+#### Use Case
 For a detailed use case of this device, please visit [Streamlined Server Management](/use-cases/#streamlined-server-management).
 
-### Demo Video
+#### Demo Video
 Watch the demo video by Tech influencer **Cameron Gray** on how to use this device: [This USB KVM Console is Awesome!](https://youtu.be/xAEQpWyfY-c?si=AkNVYHHYoRLn2-iB)
 
-[Place Order](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products){ .md-button }
+-------
 
+## Accessories and Cables
 
 <div class="grid cards" markdown>
 
@@ -34,7 +39,7 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 
     1m VGA to HDMI converter cable with integrated audio for easy connection of VGA devices to HDMI displays in 1080p Full HD. Powered via USB with 3.5mm audio input. 
 
-    [:octicons-arrow-right-24: Place Order](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products)
+    [:octicons-arrow-right-24: :material-cart: Place Order](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products)
 
 - ![Type-C to Type-C Cable with Adapter](images/product/OP-05-CABLE150-C2C.jpg){:style="height:260px"}
 
@@ -71,6 +76,6 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 </div>
 
 
-## More Coming Soon
+### More Coming Soon
 
 Stay tuned for more products, designed to enhance your Tech experience.

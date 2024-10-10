@@ -17,6 +17,7 @@ copyright: >-
 extra_css:
   - assets/stylesheets/custom.css
   - assets/stylesheets/custom_style.css
+  - assets/stylesheets/extra.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
   - assets/stylesheets/signup_form.css
 
@@ -90,6 +91,8 @@ theme:
 
 extra:
   social:
+    - icon: crowd-supply-icon
+      link: https://www.crowdsupply.com/techxartisan
     - icon: fontawesome/brands/discord
       link: /discord
     - icon: fontawesome/brands/linkedin-in
@@ -106,6 +109,7 @@ extra:
       link: https://www.instagram.com/techxartisan/
     - icon: fontawesome/solid/envelope
       link: mailto:info@techxartisan.com
+
 
   consent:
     title: Cookie Consent
