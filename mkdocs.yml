@@ -54,15 +54,6 @@ theme:
   #   accent: custom
 
   palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -72,8 +63,15 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
-
-
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+        
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
