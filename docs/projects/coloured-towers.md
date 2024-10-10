@@ -1,6 +1,6 @@
 # Coloured Towers
 
-![INTERACTIVE-LIGHT-TOWER-IMAGE](../projects/pic/coloured-towers-cover.jpg){:style="height:360px"}{:class="responsive-image"}
+![INTERACTIVE-LIGHT-TOWER-IMAGE](../projects/pic/coloured-towers-cover.jpg){:class="responsive-image"}
 
 The Coloured Towers project is an innovative art installation that merges technology and creativity to create a dynamic, interactive experience. Designed in collaboration with British artist Dave Bramston for his solo exhibition [*The Joys of Colour*](https://thebowesmuseum.org.uk/exhibitions/journey-in-colour/), this project uses AI and LED technology to respond to the colors of visitors' clothing, creating a vibrant light display.
 

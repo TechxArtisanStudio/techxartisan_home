@@ -1,14 +1,15 @@
 # About
 
-## Follow Us on Social Media
+## Follow Us
 
 Stay updated and engaged with us through our social media channels:
 
-- :fontawesome-brands-x-twitter: [Follow us on Twitter](https://twitter.com/TechxArtisan)
-- :fontawesome-brands-discord: [Join our Discord community](/discord)
-- :fontawesome-brands-youtube: [Subscribe to our YouTube channel](https://www.youtube.com/@TechxArtisanStudio)
-- :fontawesome-brands-linkedin-in: [Follow us on LinkedIn](https://www.linkedin.com/company/techxartisan/)
-- :fontawesome-brands-facebook-f: [Like us on Facebook](https://www.facebook.com/TechxArtisan)
+- :fontawesome-brands-instagram: [Instagram: TechxArtisan](https://www.instagram.com/techxartisan/)
+- :fontawesome-brands-threads: [Threads: TechxArtisan](https://www.threads.net/@techxartisan?hl=en)
+- :fontawesome-brands-x-twitter: [@TechxArtisan](https://twitter.com/TechxArtisan)
+- :fontawesome-brands-discord: [Discord: TechxArtisan](/discord)
+- :fontawesome-brands-youtube: [YouTube@TechxArtisanStudio](https://www.youtube.com/@TechxArtisanStudio)
+- :fontawesome-brands-linkedin-in: [LinkedIn: TechxArtisan](https://www.linkedin.com/company/techxartisan/)
 
 
 ## Contact Us
@@ -25,7 +26,7 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
   <div class="team-member">
     <img src="/images/team/billywang.jpg" alt="Billy WANG" class="team-avatar">
     <div class="team-info">
-      <strong><a href="https://x.com/BillyWangRB">Billy WANG</a></strong><br>
+      <strong><a href="https://www.linkedin.com/in/billy-wangrb/">Billy WANG</a></strong><br>
       <em>Co-Founder & Creative Director</em><br>
       <a href="https://github.com/youyoubilly" class="social-link">
         <i class="fab fa-github"></i>
