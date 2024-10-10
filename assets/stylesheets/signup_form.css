@@ -1,0 +1,68 @@
+/* Signup Form Styles */
+.signup-form-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 1rem auto;
+}
+
+#mc_embed_signup {
+    background: transparent;
+    border-radius: 4px;
+    padding: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#mc_embed_signup h2 {
+    color: var(--md-footer-fg-color);
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+#mc_embed_signup .mc-field-group {
+    margin-bottom: 0.5rem;
+}
+
+#mc_embed_signup input[type="email"] {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: var(--md-footer-fg-color);
+}
+
+#mc_embed_signup input[type="email"]::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#mc_embed_signup .button {
+    background-color: var(--md-accent-fg-color);
+    color: var(--md-accent-bg-color);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    width: 100%;
+}
+
+#mc_embed_signup .button:hover {
+    background-color: #FAA22B;
+    color: var(--md-accent-bg-color);
+}
+
+/* Media Queries for Responsive Design */
+@media screen and (max-width: 76.1875em) {
+    .signup-form-container {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 60em) {
+    #mc_embed_signup h2 {
+        font-size: 1rem;
+    }
+}
