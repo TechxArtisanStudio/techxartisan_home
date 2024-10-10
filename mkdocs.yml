@@ -90,14 +90,22 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/TechxArtisan
+    - icon: fontawesome/brands/discord
+      link: /discord
     - icon: fontawesome/brands/linkedin-in
       link: https://www.linkedin.com/company/techxartisan/
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/TechxArtisan
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@TechxArtisanStudio
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@youyoubilly
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@techxartisanstudio
+    - icon: fontawesome/brands/threads
+      link: https://www.threads.net/@techxartisan?hl=en
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/techxartisan/
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@techxartisan.com
 
   consent:
     title: Cookie Consent
@@ -145,6 +153,7 @@ plugins:
       redirect_maps:
         'x.md': 'https://x.com/TechxArtisan'
         'en.md': 'https://techxartisan.com/'
+        'discord.md': 'https://discord.gg/sFTJD6a3R8'
   - tags:
       tags_file: tags.md
   - blog:

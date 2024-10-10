@@ -4,12 +4,13 @@
 
 Stay updated and engaged with us through our social media channels:
 
-- :fontawesome-brands-instagram: [Instagram: TechxArtisan](https://www.instagram.com/techxartisan/)
-- :fontawesome-brands-threads: [Threads: TechxArtisan](https://www.threads.net/@techxartisan?hl=en)
-- :fontawesome-brands-x-twitter: [@TechxArtisan](https://twitter.com/TechxArtisan)
 - :fontawesome-brands-discord: [Discord: TechxArtisan](/discord)
-- :fontawesome-brands-youtube: [YouTube@TechxArtisanStudio](https://www.youtube.com/@TechxArtisanStudio)
 - :fontawesome-brands-linkedin-in: [LinkedIn: TechxArtisan](https://www.linkedin.com/company/techxartisan/)
+- :fontawesome-brands-x-twitter: [@TechxArtisan](https://twitter.com/TechxArtisan)
+- :fontawesome-brands-youtube: [YouTube@TechxArtisanStudio](https://www.youtube.com/@TechxArtisanStudio)
+- :fontawesome-brands-mastodon: [Mastodon: @youyoubilly](https://mastodon.social/@youyoubilly)
+- :fontawesome-brands-threads: [Threads: TechxArtisan](https://www.threads.net/@techxartisan?hl=en)
+- :fontawesome-brands-instagram: [Instagram: TechxArtisan](https://www.instagram.com/techxartisan/)
 
 
 ## Contact Us
@@ -29,7 +30,7 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
       <strong><a href="https://www.linkedin.com/in/billy-wangrb/">Billy WANG</a></strong><br>
       <em>Co-Founder & Creative Director</em><br>
       <a href="https://github.com/youyoubilly" class="social-link">
-        <i class="fab fa-github"></i>
+        <i class="fab fa-github" style="font-size: 25px;"></i>
       </a>
     </div>
   </div>
@@ -40,7 +41,7 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
       <strong><a href="https://www.linkedin.com/in/kevinzjpeng/">Kevin PENG</a></strong><br>
       <em>Co-Founder & Tech Director</em><br>
       <a href="https://github.com/kevinzjpeng" class="social-link">
-        <i class="fab fa-github"></i>
+        <i class="fab fa-github" style="font-size: 25px;"></i>
       </a>
     </div>
   </div>
@@ -52,7 +53,7 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
       <em>Co-Founder & Tech Executive</em><br>
     </div>
       <a href="https://github.com/ling3ye" class="social-link">
-        <i class="fab fa-github"></i>
+        <i class="fab fa-github" style="font-size: 25px;"></i>
       </a>
   </div>
 
