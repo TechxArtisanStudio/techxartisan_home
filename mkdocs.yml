@@ -177,6 +177,7 @@ nav:
       - Our Products: product.md
       - Our Projects: 
           - project.md
+          - projects/audio-showcase.md
           - projects/coloured-towers.md
   - Services: service.md
   - Blog:
