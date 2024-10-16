@@ -97,5 +97,3 @@ TechxArtisan operates through two distinct entities to serve our global customer
     - **Company Name:** Guangzhou Billio Technology Co., Ltd. (Billio Tech)
     - **Focus:** Managing business operations and production within mainland China
     - **Address:** 1/F, No. 238, Ju De Road, Haizhu District, Guangzhou City, Guangdong Province, 510320 China
-
-Both entities work in tandem to provide seamless service and support to our customers worldwide.
