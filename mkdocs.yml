@@ -6,11 +6,12 @@ site_description: This is the website for TechxArtisan
 
 # Copyright
 copyright: >-
-  版权所有 &copy 2024 <a href="">TechxArtisan 阵匠</a><br>
-  广州比利奥科技有限公司 | <a href="https://beian.miit.gov.cn">粤ICP备2022069650号-2</a><br>
-  <a href="">首页</a> |
-  <a href="#__consent">Cookie设置</a> | 
-  <a href="mailto:info@techxartisan.com">联系我们</a>
+  Copyright &copy; All rights reserved. 2024 <a href="">TechxArtisan</a><br>
+  Guangzhou Billio Tech. Co., Ltd. | <a href="https://beian.miit.gov.cn">粤ICP备2022069650号-1</a><br>
+  <a href="">Home</a> |
+  <a href="#__consent">Cookie Settings</a> | 
+  <a href="/about/">About</a> |
+  <a href="mailto:info@techxartisan.com">Email Us</a>
 
 # extra_css:
 #   - assets/stylesheets/extra.css
