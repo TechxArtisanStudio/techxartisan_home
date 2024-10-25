@@ -1,4 +1,4 @@
-# **Privacy Policy of TechxArtisan**
+# **Privacy Policy**
 
 Effective Date: 25 Oct 2024
 
