@@ -175,13 +175,12 @@ plugins:
 
 nav:
   - Home: index.md
-  - What We Do:
-      - work.md
-      - Our Products: product.md
-      - Our Projects: 
-          - project.md
-          - projects/audio-showcase.md
-          - projects/coloured-towers.md
+  - TxA Shop: http://shop.techxartisan.com/
+  - Products: product.md
+  - Projects: 
+      - project.md
+      - projects/audio-showcase.md
+      - projects/coloured-towers.md
   - Services: service.md
   - Blog:
       - blog/index.md
