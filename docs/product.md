@@ -39,7 +39,7 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 
     1m VGA to HDMI converter cable with integrated audio for easy connection of VGA devices to HDMI displays in 1080p Full HD. Powered via USB with 3.5mm audio input. 
 
-    [:octicons-arrow-right-24: :material-cart: Place Order](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products)
+    [:octicons-arrow-right-24: :material-cart: Place Order](https://shop.techxartisan.com/products/vga-to-hdmi-converter-cable)
 
 - ![Type-C to Type-C Cable with Adapter](images/product/OP-05-CABLE150-C2C.jpg){:style="height:260px"}
 
@@ -47,7 +47,7 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 
     1.5m orange USB 2.0 cable for data transfer and 240W charging, featuring a soft, silicone-like material for a comfortable, high-quality feel. Includes a USB-C to USB-A adapter for compatibility.
 
-    <!-- [:octicons-arrow-right-24: Learn More](/product/type-c-type-c) -->
+    [:octicons-arrow-right-24: :material-cart: Place Order](https://shop.techxartisan.com/products/type-c-cable-with-usb-a-adapter-1-5m-4-11ft-240w-fast-charging-data-transfer-usb2-0)
 
 - ![Type-C to USB-A Cable with Adapter](images/product/OP-04-CABLE30-C2A.jpg){:style="height:260px"}
     
