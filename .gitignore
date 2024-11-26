@@ -2,3 +2,5 @@ Pipfile
 .DS_Store
 .ipynb_checkpoints/
 techxartisan_home/
+mkdocs_env/
+venv/

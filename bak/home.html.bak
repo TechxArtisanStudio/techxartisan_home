@@ -17,8 +17,8 @@
           <a href="{{ '/work/' | url }}" title="Projects" class="md-button">
             Explore Our Wizardry
           </a>
-          <a href="https://shop.techxartisan.com" title="Shop Black Friday Sale" class="md-button md-button--primary" style="background-color: #ff4500; color: #fff; font-weight: bold; border: 2px solid #ff4500; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); animation: pulse 1.5s infinite;">
-            Shop NOW - 50% OFF Black Friday Sale!
+          <a href="{{ '/service/' | url }}" title="Services" class="md-button md-button--primary">
+            Magic Services
           </a>
         </div>
       </div>
@@ -26,20 +26,7 @@
   </section>
 
   <a rel="me" href="https://mastodon.social/@youyoubilly" style="display:none;">Mastodon</a>
-
-  <style>
-    @keyframes pulse {
-      0% {
-        transform: scale(1);
-      }
-      50% {
-        transform: scale(1.05);
-      }
-      100% {
-        transform: scale(1);
-      }
-    }
-  </style>
+  
 {% endblock %}
 
 {% block content %}{% endblock %}
