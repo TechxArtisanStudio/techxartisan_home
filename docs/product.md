@@ -39,7 +39,7 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 
     1m VGA to HDMI converter cable with integrated audio for easy connection of VGA devices to HDMI displays in 1080p Full HD. Powered via USB with 3.5mm audio input. 
 
-    [:octicons-arrow-right-24: :material-cart: Place Order](https://shop.techxartisan.com/products/vga-to-hdmi-converter-cable)
+    [:octicons-arrow-right-24: :material-cart: Order Now at TxA Shop](https://shop.techxartisan.com/products/vga-to-hdmi-converter-cable)
 
 - ![Type-C to Type-C Cable with Adapter](images/product/OP-05-CABLE150-C2C.jpg){:style="height:260px"}
 
@@ -47,7 +47,7 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 
     1.5m orange USB 2.0 cable for data transfer and 240W charging, featuring a soft, silicone-like material for a comfortable, high-quality feel. Includes a USB-C to USB-A adapter for compatibility.
 
-    [:octicons-arrow-right-24: :material-cart: Place Order](https://shop.techxartisan.com/products/type-c-cable-with-usb-a-adapter-1-5m-4-11ft-240w-fast-charging-data-transfer-usb2-0)
+    [:octicons-arrow-right-24: :material-cart: Order Now at TxA Shop](https://shop.techxartisan.com/products/type-c-cable-with-usb-a-adapter-1-5m-4-11ft-240w-fast-charging-data-transfer-usb2-0)
 
 - ![Type-C to USB-A Cable with Adapter](images/product/OP-04-CABLE30-C2A.jpg){:style="height:260px"}
     
@@ -55,7 +55,7 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 
     0.3m black cable for fast data transfer, includes a USB-A to USB-C adapter for flexible device connectivity.
 
-    <!-- [:octicons-arrow-right-24: Learn More](/product/type-c-usb-a) -->
+    [:octicons-arrow-right-24: :material-cart: Order Now at TxA Shop](https://shop.techxartisan.com/products/type-c-to-usb-a-cable-with-adapter)
 
 - ![HDMI Male-to-Male Cable](images/product/OP-03-CABLE30-HDMI.jpg){:style="height:260px"}
 
@@ -63,7 +63,7 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 
     0.3m black cable for high-definition video transmission.
 
-    <!-- [:octicons-arrow-right-24: Learn More](/product/hdmi-male-to-male) -->
+    [:octicons-arrow-right-24: :material-cart: Order Now at TxA Shop](https://shop.techxartisan.com/products/hdmi-male-to-male-cable)
 
 - ![Openterface Toolkit Bag](images/product/OP-06-BAG-TOOLKIT.jpg){:style="height:260px"}
 
@@ -71,7 +71,7 @@ Watch the demo video by Tech influencer **Cameron Gray** on how to use this devi
 
     Compact toolkit bag with mesh pockets and an orange zipper, perfect for organising and carrying the Mini-KVM and accessories.
 
-    <!-- [:octicons-arrow-right-24: Learn More](/product/toolkit-bag) -->
+    [:octicons-arrow-right-24: :material-cart: Order Now at TxA Shop](https://shop.techxartisan.com/products/openterface-toolkit-bag)
 
 </div>
 
