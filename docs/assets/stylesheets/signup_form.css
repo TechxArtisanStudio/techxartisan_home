@@ -5,7 +5,7 @@
     margin: 1rem auto;
 }
 
-#mc_embed_signup {
+#google_form_signup {
     background: transparent;
     border-radius: 4px;
     padding: 1rem;
@@ -13,18 +13,19 @@
     box-sizing: border-box;
 }
 
-#mc_embed_signup h2 {
+#google_form_signup h2 {
     color: var(--md-footer-fg-color);
     font-size: 1.2rem;
     margin-top: 0;
     margin-bottom: 0.5rem;
 }
 
-#mc_embed_signup .mc-field-group {
+#google_form_signup .gf-field-group {
     margin-bottom: 0.5rem;
 }
 
-#mc_embed_signup input[type="email"] {
+#google_form_signup input[type="text"],
+#google_form_signup input[type="email"] {
     width: 100%;
     padding: 0.5rem;
     border: 1px solid rgba(255, 255, 255, 0.3);
@@ -33,11 +34,12 @@
     color: var(--md-footer-fg-color);
 }
 
-#mc_embed_signup input[type="email"]::placeholder {
+#google_form_signup input[type="text"]::placeholder,
+#google_form_signup input[type="email"]::placeholder {
     color: rgba(255, 255, 255, 0.6);
 }
 
-#mc_embed_signup .button {
+#google_form_signup .button {
     background-color: var(--md-accent-fg-color);
     color: var(--md-accent-bg-color);
     border: none;
@@ -49,9 +51,15 @@
     width: 100%;
 }
 
-#mc_embed_signup .button:hover {
+#google_form_signup .button:hover {
     background-color: #FAA22B;
     color: var(--md-accent-bg-color);
+}
+
+#google_form_signup .footnote {
+    text-align: center;
+    font-size: 0.6rem;
+    color: rgba(255, 255, 255, 0.6);
 }
 
 /* Media Queries for Responsive Design */
@@ -62,7 +70,7 @@
 }
 
 @media screen and (max-width: 60em) {
-    #mc_embed_signup h2 {
+    #google_form_signup h2 {
         font-size: 1rem;
     }
 }
