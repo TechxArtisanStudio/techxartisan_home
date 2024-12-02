@@ -159,6 +159,7 @@ plugins:
         'x.md': 'https://x.com/TechxArtisan'
         'en.md': 'https://techxartisan.com/'
         'discord.md': 'https://discord.gg/sFTJD6a3R8'
+        'product.md': 'https://shop.techxartisan.com/'
   - tags:
       tags_file: tags.md
   - blog:
@@ -176,7 +177,6 @@ plugins:
 nav:
   - Home: index.md
   - TxA Shop: http://shop.techxartisan.com/
-  - Products: product.md
   - Projects: 
       - project.md
       - projects/audio-showcase.md
