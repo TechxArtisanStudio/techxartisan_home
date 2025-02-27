@@ -19,6 +19,8 @@ To ensure you're communicating with us securely and directly, please note our of
 
 ## Our Team
 
+![TechxArtisan Logo](images/techxartisan-company-black.png)
+
 TechxArtisan is an interdisciplinary technology creative studio comprising designers, planners, makers, and technical experts who are passionate about cutting-edge technologies. Our diverse team brings together a wealth of expertise to create innovative solutions and push the boundaries of what's possible.
 
 ### Core Members
