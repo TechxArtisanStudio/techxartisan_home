@@ -1,0 +1,61 @@
+/* same as .md-content a:hover */
+:root {
+    --md-accent-fg-color: #2b2b2b;
+    /* --md-primary-fg-color: #2b2b2b;
+    ---md-accent-bg-color: #2b2b2b; */
+}
+
+/* Clickable links and icon in main body */
+.md-content a {
+  color: #FAA22B !important;
+}
+
+/* Clickable links and icon hover color */
+.md-content a:hover {
+  color: #FF5733 !important;
+}
+
+/* Change the color of the active TOC link */
+.md-nav__link--active {
+    color: #2b2b2b !important; /* Active link color for light mode */
+}
+
+/* Change the color of the active TOC link in dark mode */
+[data-md-color-scheme="slate"] .md-nav__link--active {
+    color: #FAA22B !important; /* Active link color for dark mode */
+}
+
+/* Ensure that hover styles don't interfere */
+.md-nav__link:hover {
+    color: #FF5733 !important; /* Keep the active color consistent on hover */
+}
+
+/* h1, h2, h3, h4 {
+    color: #2b2b2b;
+} */
+
+/* body {
+    background-color: #ffffff;
+} */
+
+/* the clickable tab and toc */
+/* a {
+    color: #FF5733; 
+} */
+
+/* Custom styles for consent buttons */
+.md-consent__controls .md-button--primary {
+    background-color: #2b2b2b !important;
+    border-color: #2b2b2b !important;
+}
+
+.md-consent__controls .md-button:not(.md-button--primary) {
+    border-color: #2b2b2b !important;
+    color: #2b2b2b !important;
+}
+
+.md-consent__controls .md-button:hover {
+    background-color: #FAA22B !important;
+    border-color: #FAA22B !important;
+    color: #ffffff !important;
+}
