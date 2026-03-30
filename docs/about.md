@@ -61,16 +61,16 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
   </div>
 
   <div class="team-member">
-    <img src="/images/team/wilson.jpg" alt="Wilson YU" class="team-avatar">
+    <img src="/images/team/ianchow.jpg" alt="Ian Chow" class="team-avatar">
     <div class="team-info">
-      <strong>Wilson YU</strong><br>
+      <strong>Ian CHOW</strong><br>
     </div>
   </div>
 
   <div class="team-member">
-    <img src="/images/team/ianchow.jpg" alt="Ian Chow" class="team-avatar">
+    <img src="/images/team/wilson.jpg" alt="Wilson YU" class="team-avatar">
     <div class="team-info">
-      <strong>Ian CHOW</strong><br>
+      <strong>Wilson YU</strong><br>
     </div>
   </div>
 </div>
