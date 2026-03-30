@@ -48,17 +48,6 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
     </div>
   </div>
 
-  <div class="team-member">
-    <img src="/images/team/shawnling.jpg" alt="Shawn LING" class="team-avatar">
-    <div class="team-info">
-      <strong>Shawn LING</strong><br>
-      <em>Co-Founder & Tech Executive</em><br>
-    </div>
-      <a href="https://github.com/ling3ye" class="social-link">
-        <i class="fab fa-github" style="font-size: 25px;"></i>
-      </a>
-  </div>
-
 </div>
 
 ### Creative Technologist & Developers
@@ -72,9 +61,9 @@ TechxArtisan is an interdisciplinary technology creative studio comprising desig
   </div>
 
   <div class="team-member">
-    <img src="/images/team/warrenye.jpg" alt="Warren Ye" class="team-avatar">
+    <img src="/images/team/wilson.jpg" alt="Wilson YU" class="team-avatar">
     <div class="team-info">
-      <strong>Warren YE</strong><br>
+      <strong>Wilson YU</strong><br>
     </div>
   </div>
 
@@ -96,6 +85,6 @@ TechxArtisan operates through two distinct entities to serve our global customer
     - **Address:** 16/F, Broadway Building, 54-62 Lockhart Road, Wanchai, Hong Kong
 
 2. **For Mainland China Operations:**
-    - **Company Name:** Guangzhou Billio Technology Co., Ltd. (Billio Tech)
+    - **Company Name:** TechxArtisan Limited (TechxArtisan)
     - **Focus:** Managing business operations and production within mainland China
-    - **Address:** 1/F, No. 238, Ju De Road, Haizhu District, Guangzhou City, Guangdong Province, 510320 China
+    - **Address:** Unit 04-05, 16/F, Broadway Building, 54-62 Lockhart Road, Wanchai, Hong Kong SAR
