@@ -1,6 +1,6 @@
 # **Privacy Policy**
 
-Effective Date: 25 Oct 2024
+Effective Date: 23 Sep 2026
 
 At TechxArtisan, safeguarding your privacy is of utmost importance. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information in connection with the services and products we offer. By using our services, you agree to the practices described in this policy. 
 
@@ -106,6 +106,19 @@ If you have any questions or concerns regarding this Privacy Policy or how we ha
 
 **TechxArtisan**  
 Email: info@techxartisan.com  
+
+---
+
+## 13. **Amazon Selling Partner Data**
+
+TechxArtisan Limited may receive information through the Amazon Selling Partner API (SP-API) for the purpose of managing our Amazon seller operations.
+
+- **Purpose and Use**: Amazon Information is collected and processed only for legitimate internal business purposes, including product and inventory management, order processing, financial and operational reporting, and fulfillment of seller-fulfilled orders.
+- **Personally Identifiable Information (PII)**: Recipient names and shipping addresses are accessed only when necessary to fulfill Amazon orders. Access is restricted to authorised personnel with a business need to access the information. Amazon buyer PII is not used for advertising, marketing, or profiling and is not sold to third parties.
+- **Data Protection**: Amazon Information is protected through appropriate technical and organisational controls, including restricted system access and encryption during transmission. Sensitive information is protected at rest in accordance with our security requirements.
+- **Data Retention**: Amazon PII is retained only for the period necessary to fulfill the applicable business purpose and in accordance with Amazon's data protection requirements. When no longer required, it is securely deleted or otherwise disposed of in accordance with our data retention procedures.
+- **Access Controls**: Access to systems containing Amazon Information is limited to authorised personnel using company-managed systems. Credentials and API secrets are access-controlled and are not embedded in publicly accessible source code.
+- **Security Incidents**: Security incidents involving Amazon Information are handled under our incident response procedures and reported as required by Amazon's applicable policies.
 
 ---
 
